@@ -1,0 +1,63 @@
+.get{
+    color: var(--orange);
+    
+}
+#sendii{
+width: 150px;
+font-size: 15px;
+align-items: center;
+
+
+}
+#formid{
+display: flex;
+flex-direction:column ;
+gap: 2rem;
+
+
+
+
+
+}
+textarea{
+    height: 4rem !important;
+}
+.user{
+    width: 15rem;
+    height: 2rem;
+    padding: 0.3rem;
+    outline: none;
+    border:  2px solid var(--orange);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+@media(max-width:650px) {
+    #formid{
+        margin-left: -40px;
+    }
+}
+@media(max-width:576px){
+#formid{
+    margin-left: 60px;
+}
+.get{
+    margin-left: 50px;
+
+}
+.gett{
+    margin-left: 50px;
+
+}
+} 
+@media(max-width:401px){
+#formid{
+    margin-left: -1px;
+    
+}
+.user{
+    width: 13rem;
+}
+
+}

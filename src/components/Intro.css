@@ -1,0 +1,146 @@
+.introsecondheading {
+  color: var(--orange);
+}
+.introfirstheading {
+  color: var(--black);
+}
+
+.i-icons > * {
+  transform: scale(0.4);
+}
+.i-icons > *:hover {
+  cursor: pointer;
+}
+.i-right {
+  
+  position: relative;
+}
+.i-right > * {
+  position: absolute;
+  
+}
+.i-right > :nth-child(1) {
+  transform: scale(0.62);
+  left: -15%;
+  top: -9%;
+}
+.i-right > :nth-child(2) {
+  top: -4.6rem;
+  transform: scale(0.58);
+  left: -3rem;
+  
+}
+.i-right > :nth-child(3) {
+  transform: scale(1.4);
+  left: 20%;
+  transform: scale(1);
+}
+.i-right > :nth-child(4) {
+  transform: scale(0.6);
+  margin-left: -5rem;
+  margin-top: -4rem;
+}
+.i-right > :nth-child(5) {
+  transform: scale(0.4);
+  margin-left: 17rem;
+  
+  padding: 0px 28px 0px 20px;
+  height: 6.9rem;
+  justify-content: space-around;
+  border-radius: 17px;
+  
+  background: white;
+  box-shadow: var(--boxShadow);
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+
+
+
+}
+.text1 {
+  color: rgb(0, 183, 253);
+
+  margin-left: 23rem;
+  margin-top: 2rem;
+  display: block;
+  font-style: oblique;
+  font-size: 16px;
+  font-family: sans-serif;
+  justify-content: space-around;
+  display: flex;
+  background: white;
+  box-shadow: var(--boxShadow);
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 17px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 17px;
+  align-items: center;
+  padding: 0px 20px 0px 20px;
+  height: 2.9rem;
+   z-index: 1;
+  
+}
+.i-right>:nth-child(7){
+    margin-top: 18rem;
+    transform: scale(0.5);
+    align-items: center;
+    padding: 0px 28px 0px 20px;
+    
+    justify-content: space-around;
+    border-radius: 17px;
+    
+    background: white;
+    box-shadow: var(--boxShadow);
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-left: -3rem;
+
+
+}
+
+.text2{
+  color: rgb(0, 183, 255);
+
+    margin-top: 19.60rem;
+    margin-left: 3rem;
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: oblique;
+    justify-content: space-around;
+    display: flex;
+    background: white;
+    box-shadow: var(--boxShadow);
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 17px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 17px;
+    align-items: center;
+    padding: 0px 21px 0px 5px;
+    height: 3.4rem;
+    z-index: 1;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
